@@ -1,0 +1,14 @@
+{
+  "name": "aura-particles",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.150.0",
+    "@react-three/fiber": "^8.12.0",
+    "@react-three/drei": "^9.56.0"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
